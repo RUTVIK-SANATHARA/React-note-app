@@ -1,0 +1,10 @@
+.card{
+    width: 18rem;
+}
+.display{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top:1rem;
+}
+/* {style:"width: 18rem;"} */
